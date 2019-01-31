@@ -18,3 +18,5 @@ public class TrelloBadgesDto {
     @JsonProperty("attachmentsByType")
     private TrelloAttachmentsByTypeDto attachments;
 }
+
+
